@@ -1,0 +1,17 @@
+{
+  "name": "cron-expression-parser",
+  "version": "1.0.0",
+  "description": "A command-line cron expression parser",
+  "main": "cron-parser.js",
+  "scripts": {
+    "test": "node parser.test.js",
+    "start": "node cron-parser.js"
+  },
+  "keywords": [
+    "cron",
+    "parser",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
